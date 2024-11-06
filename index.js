@@ -91,6 +91,21 @@ console.log (add (10,2)); */
 // }
 // methods (sub-data , 100 gb/s)
 
+// callMeMoby (5, function(){
+//     console.log('javascript is fun')
+// })
+
+// function addMeMaybe(number, theFunction) {
+//     let nb = 1;
+//     for(let i =0;  i < number; i++){
+//         theFunction(nb);
+//         nb++;
+//     }
+// }
+// addMeMaybe(4, function (nb) {
+//     console.log('New value: ' + nb);
+// });
+
 
 //Returning a function 
 
